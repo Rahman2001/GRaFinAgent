@@ -1,1 +1,1 @@
-# FinAgent
+# GRaFinAgent
